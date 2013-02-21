@@ -34,7 +34,10 @@
     "racer-pubsub-redis": "*",
     "racer-db-mongo": "*",
     "coffee-script": "1.4.x",
-    "async": "*"
+    "async": "*",
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.1.1",
+    "grunt-shell": "0.2.x"
   },
   "engines": {
     "node": ">=0.4.0"
